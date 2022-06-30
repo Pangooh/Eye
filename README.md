@@ -1,7 +1,7 @@
 # Eye Exercise
 
 ## Description
-This program detects the mouse pointer and the eyes follow around the mouse pointer.
+This program detects the location of the mouse pointer and once you move the mouse pointer around, the eyes will follow the mouse pointer.
 
 ## How to Run
 Move the mouse pointer around the window.
